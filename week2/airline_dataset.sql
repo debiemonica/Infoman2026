@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 -- Airline Management System Dataset
 -- This script creates the necessary tables and populates them with sample data.
